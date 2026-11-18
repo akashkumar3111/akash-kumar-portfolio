@@ -10,6 +10,10 @@ export const metadata: Metadata = {
 
   description:
     "Explore the portfolio of Akash Kumar, MCA student and aspiring software developer. Discover projects, technical skills, experience, and expertise in Java, Python, SQL, web development, and software engineering.",
+    
+    verification: {
+    google: "0Kox2Fmp0VdpeUkTjHpdFjB7Da22zNTorydI-jSdFXc",
+  },
 
   keywords: [
     "Akash Kumar",
