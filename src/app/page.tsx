@@ -95,7 +95,7 @@ export default function Home() {
         
         <div className="contact-foot"><span>AKASH.KUMAR3111.AK@GMAIL.COM · +91 88620 52856</span><span>DELHI NCR, INDIA</span></div></div></Reveal>
       </section>
-      <ExperienceMotion />\n      <footer className="footer section-wrap"><span>© {new Date().getFullYear()} Akash Kumar. Designed & built with curiosity.</span><a href="#home">Back to top ↑</a></footer>
+      <ExperienceMotion />      <footer className="footer section-wrap"><span>© {new Date().getFullYear()} Akash Kumar. Designed & built with curiosity.</span><a href="#home">Back to top ↑</a></footer>
     </main>
   );
 }
